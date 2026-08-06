@@ -1,6 +1,7 @@
-streamlit==1.32.0
-torch==2.2.1
-torchvision==0.17.1
-pillow==10.2.0
-google-genai==0.3.0
-python-dotenv==1.0.1
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+streamlit
+pillow
+google-genai
+python-dotenv
