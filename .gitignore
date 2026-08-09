@@ -1,5 +1,17 @@
+# Security
 .env
+
+# Virtual Environment (CRITICAL TO ADD)
+venv/
+
+# Python Cache
 __pycache__/
+
+# OS Files
 .DS_Store
+
+# Dataset
 data/
+
+# Old Model Weights
 art_style_model.pth
