@@ -15,3 +15,5 @@ data/
 
 # Old Model Weights
 art_style_model.pth
+
+*.webp
